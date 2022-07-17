@@ -1,0 +1,12 @@
+{
+    "name": "maxmeffert/php-monorepo-test-package-b",
+    "require": {
+        "php": "^7.2",
+        "symfony/dependency-injection": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PhpMonorepoTest\\PackageB\\": "src"
+        }
+    }
+}

@@ -1,1 +1,0 @@
-# php-monorepo-test-package-b
